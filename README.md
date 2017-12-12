@@ -1,2 +1,2 @@
 # Metal-Programming-Guide
-This is the sample code for the Metal Programming Guide.
+This is the sample code for the Metal Programming Guide. It is my intention to maintain this code for future versions of both Swift and Metal. It is also my intention to add to this repository over time. There were several conceptual chapters in the book where I did not have sample projects, such as the machine vision chapter. I would like to create accompanying projects to supplement the ones I created during the creation of this book.
